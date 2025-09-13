@@ -2,4 +2,4 @@
 title: "About"
 ---
 
-This has my projects.
+Hello! My name is Mailys Guedon. I did my undergrad in Mathematics at University College London in England.
